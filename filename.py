@@ -1,5 +1,5 @@
 import os
-file_path = 'txt' #파일 생성할 경로
+file_path = 'txt' #파일 불러올 경로
 file_names = os.listdir(file_path)
 file_names
 
