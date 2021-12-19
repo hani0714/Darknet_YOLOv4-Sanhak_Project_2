@@ -14,6 +14,7 @@ image_opencv.cpp
 - detection 발생 시 캡쳐 후 이미지 저장 부분 추가
 
 pyolo.py - opencv의 dnn모듈을 사용해 yolo로 single image detection
+
 pycamyolo.py - pyolo에서 jetson nano의 cameara를 사용해 영상 detection
 - Jetson Nano 이미지에 기본적으로 설치되어 있는 opencv로 실행할 경우 오류가 나므로 높은 버전의 opencv를 설치해야함
 
