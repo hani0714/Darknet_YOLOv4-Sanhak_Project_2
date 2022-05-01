@@ -1,4 +1,4 @@
-# Sanhak2_Yolo
+# YOLOv4 - Sanhak Project 2
 ## 멘토기업: 테크노니아
 
 ### filename.py
