@@ -14,7 +14,7 @@
 - 이미지 augmemtation 에 사용
 
 ### image_opencv.cpp
-- line 1018 ~ 1037
+- line 999 ~ 1014
 - detection 발생 시 캡쳐 후 이미지 저장 부분 추가
 
 ### pyolo.py 
