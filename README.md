@@ -14,8 +14,8 @@
 - 이미지 augmemtation 에 사용
 
 ### image_opencv.cpp
-- line 999 ~ 1014
-- detection 발생 시 캡쳐 후 이미지 저장 부분 추가
+- line 1000 ~ 1013
+- detection 발생 시 캡쳐 후 이미지 저장 부분 : 기존 코드를 현재 opencv 버전에 맞게끔 수정.
 
 ### pyolo.py 
 - opencv의 dnn모듈을 사용해 yolo로 single image detection
